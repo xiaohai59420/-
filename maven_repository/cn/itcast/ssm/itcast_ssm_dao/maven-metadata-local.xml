@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cn.itcast.ssm</groupId>
+  <artifactId>itcast_ssm_dao</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200103130307</lastUpdated>
+  </versioning>
+</metadata>

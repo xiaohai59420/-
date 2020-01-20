@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 26 08:52:11 CST 2019
+aether-spi-1.7.jar>central=
+aether-spi-1.7.jar>alimaven=
+aether-spi-1.7.pom>central=
+aether-spi-1.7.pom>alimaven=

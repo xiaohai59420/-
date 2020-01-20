@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 15 14:42:19 CST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545032611676
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact error\:error\:pom\:unknown from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1557902539251

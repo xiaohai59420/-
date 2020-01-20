@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:29:42 CST 2019
+avro-ipc-1.7.7.jar>alimaven=
+avro-ipc-1.7.7-tests.jar>alimaven=
+avro-ipc-1.7.7.pom>alimaven=

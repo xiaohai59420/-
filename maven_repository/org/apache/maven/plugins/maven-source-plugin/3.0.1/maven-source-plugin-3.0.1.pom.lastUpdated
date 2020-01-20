@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 11 19:29:35 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-source-plugin\:pom\:3.0.1 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1570793375384

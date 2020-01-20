@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:53:02 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545742718447
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545749582425
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.alibaba\:fastjson\:pom\:1.2.30 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.40.215] failed\: Connection timed out\: connect

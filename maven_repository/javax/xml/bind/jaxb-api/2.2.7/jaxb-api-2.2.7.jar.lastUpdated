@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:29:55 CST 2019
+@default-apache-repo-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1567070995207
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.2.7 from/to apache-repo (https\://repository.apache.org/content/repositories/releases)\: repository.apache.org
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.2.7 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567070983806

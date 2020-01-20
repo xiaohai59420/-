@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 16 07:54:44 CST 2018
+@default-alfresco-public-snapshots-https\://artifacts.alfresco.com/nexus/content/groups/public-snapshots/.lastUpdated=1544918084536
+http\://beardedgeeks.googlecode.com/svn/repository/releases/.error=Could not transfer artifact org.apache.tomcat\:tomcat-tribes\:pom\:8.0.14 from/to beardedgeeks-releases (http\://beardedgeeks.googlecode.com/svn/repository/releases)\: beardedgeeks.googlecode.com
+https\://artifacts.alfresco.com/nexus/content/groups/public-snapshots/.error=Could not transfer artifact org.apache.tomcat\:tomcat-tribes\:pom\:8.0.14 from/to alfresco-public-snapshots (https\://artifacts.alfresco.com/nexus/content/groups/public-snapshots)\: artifacts.alfresco.com
+@default-alfresco-public-https\://artifacts.alfresco.com/nexus/content/groups/public/.lastUpdated=1544918084497
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1544918084761
+https\://artifacts.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.tomcat\:tomcat-tribes\:pom\:8.0.14 from/to alfresco-public (https\://artifacts.alfresco.com/nexus/content/groups/public)\: artifacts.alfresco.com
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.tomcat\:tomcat-tribes\:pom\:8.0.14 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-beardedgeeks-releases-http\://beardedgeeks.googlecode.com/svn/repository/releases/.lastUpdated=1544918084751

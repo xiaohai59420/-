@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:53:30 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545742730299
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545749610681
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-crypto\:pom\:4.2.3.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

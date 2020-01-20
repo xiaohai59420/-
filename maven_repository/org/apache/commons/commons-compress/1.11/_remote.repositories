@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 06 17:22:21 CST 2019
+commons-compress-1.11.jar>central=
+commons-compress-1.11.jar>alimaven=
+commons-compress-1.11.pom>central=
+commons-compress-1.11.pom>alimaven=

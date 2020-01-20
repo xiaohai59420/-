@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 16:32:30 CST 2019
+https\://repo.spring.io/libs-release/.lastUpdated=1567067550177
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient-cache\:pom\:4.2.2 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Failed to transfer file\: http\://maven.aliyun.com/nexus/content/groups/public/org/apache/httpcomponents/httpclient-cache/4.2.2/httpclient-cache-4.2.2.pom. Return code is\: 502 , ReasonPhrase\:Bad Gateway.
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567067545607

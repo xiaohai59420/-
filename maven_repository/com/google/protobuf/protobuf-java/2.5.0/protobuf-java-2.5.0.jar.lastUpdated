@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:29:55 CST 2019
+@default-apache-repo-https\://repository.apache.org/content/repositories/releases/.lastUpdated=1567070995144
+https\://repository.cloudera.com/artifactory/libs-release/.error=
+http\://maven.restlet.org/.error=
+https\://repository.apache.org/content/repositories/releases/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.5.0 from/to apache-repo (https\://repository.apache.org/content/repositories/releases)\: repository.apache.org
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact com.google.protobuf\:protobuf-java\:jar\:2.5.0 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Failed to transfer file\: http\://maven.aliyun.com/nexus/content/groups/public/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar. Return code is\: 502 , ReasonPhrase\:Bad Gateway.
+https\://repository.cloudera.com/artifactory/libs-release/.lastUpdated=1567069855740
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567069848885
+http\://maven.restlet.org/.lastUpdated=1567069850494

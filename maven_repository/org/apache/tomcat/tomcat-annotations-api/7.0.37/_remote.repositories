@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 28 08:26:21 CST 2019
+tomcat-annotations-api-7.0.37.jar>central=
+tomcat-annotations-api-7.0.37.pom>central=
+tomcat-annotations-api-7.0.37.jar>alimaven=
+tomcat-annotations-api-7.0.37.pom>alimaven=

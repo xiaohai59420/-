@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:53:01 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545742697423
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545749581533
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.security\:spring-security-jwt\:pom\:1.0.8.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/151.101.40.215] failed\: Connection timed out\: connect

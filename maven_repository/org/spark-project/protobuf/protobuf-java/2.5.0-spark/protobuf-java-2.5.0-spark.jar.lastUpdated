@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:29:44 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.spark-project.protobuf\:protobuf-java\:jar\:2.5.0-spark from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567070984029

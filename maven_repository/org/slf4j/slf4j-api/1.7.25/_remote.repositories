@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:52:57 CST 2018
+slf4j-api-1.7.25.jar>central=
+slf4j-api-1.7.25.jar>alimaven=
+slf4j-api-1.7.25.pom>alimaven=
+slf4j-api-1.7.25.pom>central=
+slf4j-api-1.7.25-sources.jar>central=

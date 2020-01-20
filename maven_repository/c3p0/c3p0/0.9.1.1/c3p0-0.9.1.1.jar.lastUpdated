@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 17:10:58 CST 2019
+http\://www.terracotta.org/download/reflector/snapshots/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact c3p0\:c3p0\:jar\:0.9.1.1 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Failed to transfer file\: http\://maven.aliyun.com/nexus/content/groups/public/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar. Return code is\: 502 , ReasonPhrase\:Bad Gateway.
+http\://www.terracotta.org/download/reflector/releases/.error=Could not transfer artifact c3p0\:c3p0\:jar\:0.9.1.1 from/to terracotta-releases (http\://www.terracotta.org/download/reflector/releases)\: Access denied to\: http\://www.terracotta.org/download/reflector/releases/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar , ReasonPhrase\:Forbidden.
+@default-terracotta-releases-http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1567069858658
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567069849310
+http\://www.terracotta.org/download/reflector/snapshots/.lastUpdated=1567069857390

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 16 00:26:05 CST 2018
+https\://artifacts.alfresco.com/nexus/content/groups/public-snapshots/.lastUpdated=1544891143845
+http\://beardedgeeks.googlecode.com/svn/repository/releases/.error=Could not transfer artifact org.apache.tomcat\:tomcat-util\:pom\:7.0.54 from/to beardedgeeks-releases (http\://beardedgeeks.googlecode.com/svn/repository/releases)\: Connect to beardedgeeks.googlecode.com\:80 [beardedgeeks.googlecode.com/64.233.188.82] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1544891165459
+https\://artifacts.alfresco.com/nexus/content/groups/public-snapshots/.error=
+https\://artifacts.alfresco.com/nexus/content/groups/public/.lastUpdated=1544891142366
+https\://artifacts.alfresco.com/nexus/content/groups/public/.error=
+@default-beardedgeeks-releases-http\://beardedgeeks.googlecode.com/svn/repository/releases/.lastUpdated=1544891164858

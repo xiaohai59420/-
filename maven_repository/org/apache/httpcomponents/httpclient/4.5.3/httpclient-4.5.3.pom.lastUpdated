@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:53:29 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545742730275
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545749609721
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:pom\:4.5.3 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

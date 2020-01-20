@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 29 16:20:08 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact cglib\:cglib-nodep\:pom\:2.2.2 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Failed to transfer file\: http\://maven.aliyun.com/nexus/content/groups/public/cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.pom. Return code is\: 502 , ReasonPhrase\:Bad Gateway.
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567066808315

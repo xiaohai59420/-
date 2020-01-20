@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 06 17:22:26 CST 2019
+maven-site-plugin-3.6.jar>alimaven=
+maven-site-plugin-3.6.pom>alimaven=
+maven-site-plugin-3.6.jar>central=
+maven-site-plugin-3.6.pom>central=

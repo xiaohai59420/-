@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 22:52:57 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1545742630418
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:jar\:24.0-jre from/to central (https\://repo.maven.apache.org/maven2)\: GET request of\: com/google/guava/guava/24.0-jre/guava-24.0-jre.jar from central failed
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1545749577720

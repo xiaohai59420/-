@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Sep 07 18:07:15 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.security\:spring-security-rsa\:jar\:1.0.7.RELEASE from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: maven.aliyun.com
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1567771479089
+https\://repo.spring.io/snapshot/.lastUpdated=1567770556578
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1567850835357

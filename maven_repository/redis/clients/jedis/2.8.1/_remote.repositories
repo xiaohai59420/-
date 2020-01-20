@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 05 19:18:34 CST 2019
+jedis-2.8.1.jar>central=
+jedis-2.8.1.jar>alimaven=
+jedis-2.8.1.pom>central=
+jedis-2.8.1.pom>alimaven=
